@@ -1,0 +1,31 @@
+body{
+  background-color: #252a34;
+  margin: auto;
+  padding: 0;
+  width: 80%;
+  font-family: 'Caveat', 'Permanent Marker' cursive;
+}
+
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.heading{
+  font-size: 4rem;
+  color: #08d9d6;
+  font-family: "Permanent Marker";
+  text-shadow: 10px 0 #232931;
+}
+
+.player-1,.player-2{
+  display: inline-block;
+  font-family: "Caveat";
+  font-size: 1rem;
+  color: #08d9d6;
+}
+
+img{
+  width: 80%;
+}
